@@ -1,0 +1,5 @@
+Plaintext
+crewai
+langchain
+pandas
+openpyxl
